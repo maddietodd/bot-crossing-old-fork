@@ -9,10 +9,10 @@
   "homepage": "https://botcrossing.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarrenrocks/bot-crossing.git"
+    "url": "git+https://github.com/maddietodd/bot-crossing.git"
   },
   "bugs": {
-    "url": "https://github.com/jarrenrocks/bot-crossing/issues"
+    "url": "https://github.com/maddietodd/bot-crossing/issues"
   },
   "keywords": [
     "claude-code",
